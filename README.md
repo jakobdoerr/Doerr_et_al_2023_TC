@@ -1,2 +1,2 @@
 # Doerr_et_al_2023_TC
-Some scripts to reproduce results from Dörr et al. (2023) 
+Scripts to reproduce results from Figure 2 in Dörr et al. (2023) 
